@@ -7,5 +7,6 @@ lmk123/migpt-server
 hanxi/xiaomusic
 ttsths/v2ex-api
 xhofe/alist:latest
+haishanh/yacd
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
